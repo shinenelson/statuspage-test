@@ -11,7 +11,7 @@
 | Modules	| Operational	|
 | Websites	| Operational	|
 
-# Systems - List
+# Systems - Single List
 * API
 * Operational
 * Documentation
@@ -20,6 +20,16 @@
 * Operational
 * Websites
 * Operational
+
+# Systems - Sub-list
+* API
+  * Operational
+* Documentation
+  * Degraded Performance
+* Modules
+  * Operational
+* Websites
+  * Operational
 
 # Incidents
 
