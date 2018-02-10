@@ -13,7 +13,7 @@
 
 # Incidents
 
-## Incident 1
+## Incident 1 | System | Status|
 
 update 1
 
