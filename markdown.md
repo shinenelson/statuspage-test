@@ -13,17 +13,18 @@
 
 # Incidents
 
-## Incident 1
-System 1 Status 1
-!timestamp(2018-02-10T19:00:00 IST)
+## Incident 1 | System | Status|
+
 update 1
+
 update 2
-!timestamp(2018-02-10T19:00:00 IST)
+
 update 3
 
 ## Incident 2
-!timestamp(2018-02-10T19:00:00 IST)
+
 update 1
-!timestamp(2018-02-10T19:00:00 IST)
+
 update 2
+
 update 3
