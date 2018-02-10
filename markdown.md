@@ -4,7 +4,7 @@
 
 # Systems
 
-| System	| Status	|
+| | |
 | ------------- | ------------:	|
 | API		| Operational	|
 | Documentation	| Degraded Performance	|
