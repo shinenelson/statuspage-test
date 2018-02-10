@@ -1,8 +1,8 @@
-# ![status-logo](https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png) Status
+<link href=custom-styles.css>
 
 | All Systems Operational |
 
-# Systems
+# Systems - Table
 
 | System	| Status	|
 | ------------- | ------------:	|
@@ -10,6 +10,26 @@
 | Documentation	| Degraded Performance	|
 | Modules	| Operational	|
 | Websites	| Operational	|
+
+# Systems - Single List
+* API
+* Operational
+* Documentation
+* Degraded Performance
+* Modules
+* Operational
+* Websites
+* Operational
+
+# Systems - Sub-list
+* API
+  * Operational
+* Documentation
+  * Degraded Performance
+* Modules
+  * Operational
+* Websites
+  * Operational
 
 # Incidents
 
