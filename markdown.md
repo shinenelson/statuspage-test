@@ -1,3 +1,5 @@
+<link href=custom-styles.css>
+
 # ![status-logo](https://raw.githubusercontent.com/jayfk/statuspage/master/template/logo.png) Status
 
 | All Systems Operational |
