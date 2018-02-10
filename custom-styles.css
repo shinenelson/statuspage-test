@@ -1,5 +1,6 @@
 .markdown-body table	{
 	display: table;
+	table-layout: fixed;
 }
 
 .markdown-body table thead	{
