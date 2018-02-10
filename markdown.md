@@ -6,7 +6,7 @@
 
 | ------------- | ----------: |
 | API		| Operational |
-| Documentation	| Operational |
+| Documentation	| Degraded Performance	|
 | Modules	| Operational |
 | Websites	| Operational |
 
