@@ -4,16 +4,15 @@
 
 # Systems
 
-| | |
-| ------------- | ------------:	|
-| API		| Operational	|
-| Documentation	| Degraded Performance	|
-| Modules	| Operational	|
-| Websites	| Operational	|
+| API		| Operational: |
+| Documentation	| Degraded Performance:	|
+| Modules	| Operational: |
+| Websites	| Operational: |
 
 # Incidents
 
-## Incident 1 | System | Status|
+## Incident 1
+System | Status
 
 update 1
 
