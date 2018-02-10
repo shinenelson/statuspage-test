@@ -4,10 +4,11 @@
 
 # Systems
 
-| API		| Operational: |
-| Documentation	| Degraded Performance:	|
-| Modules	| Operational: |
-| Websites	| Operational: |
+| ------------- | ----------: |
+| API		| Operational |
+| Documentation	| Degraded Performance	|
+| Modules	| Operational |
+| Websites	| Operational |
 
 # Incidents
 
