@@ -2,7 +2,7 @@
 
 | All Systems Operational |
 
-# Systems
+# Systems - Table
 
 | System	| Status	|
 | ------------- | ------------:	|
@@ -10,6 +10,16 @@
 | Documentation	| Degraded Performance	|
 | Modules	| Operational	|
 | Websites	| Operational	|
+
+# Systems - List
+* API
+* Operational
+* Documentation
+* Degraded Performance
+* Modules
+* Operational
+* Websites
+* Operational
 
 # Incidents
 
