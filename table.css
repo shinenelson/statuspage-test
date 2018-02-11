@@ -1,0 +1,23 @@
+table	{
+	border-collapse: inherit;
+}
+
+.markdown-body table	{
+	display: table;
+	table-layout: fixed;
+	border: 1px solid #DFE2E5;
+	border-radius: 0.5rem;
+}
+
+.markdown-body table thead	{
+	display: none;
+}
+
+.markdown-body table tr,
+.markdown-body table tr:nth-child(2n),
+.markdown-body table td	{
+	padding: 15px;
+	border: none;
+	border-bottom: 1px solid #DFE2E5;
+	background-color: transparent;
+}
