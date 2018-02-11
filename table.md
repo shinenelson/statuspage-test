@@ -1,4 +1,4 @@
-<link href="assets/css/table.css" rel="stylesheet">
+<link href="table.css" rel="stylesheet">
 
 | All Systems Operational |
 
