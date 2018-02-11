@@ -17,3 +17,29 @@ table	{
 	border-radius: 0.5rem;
 	background-color: transparent;
 }
+
+ul {
+	border: 0.1rem solid #E1E1E1;
+	border-radius: 0.5rem;
+}
+
+.markdown-body ul	{
+	padding: initial;
+}
+
+ul li {
+	list-style: none;
+	border-bottom: 0.1rem solid #E1E1E1;
+	padding: 15px;
+	margin-bottom: 0;
+}
+
+ul ul {
+	border: none;
+}
+
+ul ul li {
+	border-bottom: none;
+	float: right;
+	margin-top: -2.5rem;
+}
