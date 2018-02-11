@@ -1,0 +1,10 @@
+ul ul {
+	border: none;
+	float: right;
+}
+
+ul ul li {
+	border-bottom: none;
+	float: right;
+	padding: 0px;
+}
