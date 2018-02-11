@@ -1,5 +1,5 @@
-<link href="assets/css/list.css" rel="stylesheet">
-<link href="assets/css/single-list.css" rel="stylesheet">
+<link href="list.css" rel="stylesheet">
+<link href="single-list.css" rel="stylesheet">
 
 | All Systems Operational |
 
