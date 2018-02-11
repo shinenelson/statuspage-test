@@ -1,6 +1,6 @@
-<link href="assets/css/table.css" rel="stylesheet">
-<link href="assets/css/list.css" rel="stylesheet">
-<link href="assets/css/sublist.css" rel="stylesheet">
+<link href="table.css" rel="stylesheet">
+<link href="list.css" rel="stylesheet">
+<link href="sublist.css" rel="stylesheet">
 
 | <span class="degraded-perf panel"> Degraded Performance on Documentation </span> |
 | <span class="investigating panel"> Investigating on API </span> |
