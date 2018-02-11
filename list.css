@@ -1,0 +1,15 @@
+ul {
+	border: 0.1rem solid #E1E1E1;
+	border-radius: 0.5rem;
+}
+
+.markdown-body ul	{
+	padding: initial;
+}
+
+ul li {
+	list-style: none;
+	border-bottom: 0.1rem solid #E1E1E1;
+	padding: 15px;
+	margin-bottom: 0;
+}
